@@ -12,6 +12,7 @@
 ![Whatssap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )
 ![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonRSoares&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonRSoares&layout=compact)](https://github.com/JeffersonRSoares/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
