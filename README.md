@@ -7,8 +7,8 @@
 )
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 )
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/jefferson-soares-estudante-de-t-i-8b40321a8/)
 ![Whatssap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )
 ![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonRSoares&show_icons=true&theme=dracula)
